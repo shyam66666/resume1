@@ -59,6 +59,11 @@ the demand for manual labor, particularly in labor-intensive and hard-to-reach a
           <Item> Developed an IoT-enabled system that uses a robot to detect welding defects via image processing. 
             The system provides real-time feedback on weld quality, ensuring high standards in welding operations.
 </Item>
+<br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+    
         </Grid>
       </Grid>
     </Box>
